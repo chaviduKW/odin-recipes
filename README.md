@@ -1,3 +1,3 @@
 # odin-recipes
 
-The odin project assignment - creating a recipes page
+The odin project assignment - creating a recipes pagee
